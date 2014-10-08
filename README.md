@@ -8,5 +8,4 @@ blah...stupid object
 one commit
 two commits
 so many readmes.
-too much doc.
 this is a README
